@@ -6,6 +6,14 @@ GitHub Issues.
 
 ## Drafts
 
+### Counting Edge-Disjoint Random Cliques
+
+Determines the sharp exponential rate in the critical range
+$t=\Theta(n^2/k^3)$ for the edge-disjoint random clique problem of
+Acan and Kahn.
+
+[Read the note](./counting-edge-disjoint-random-cliques/)
+
 ### Exponentially Many Hamiltonian Subsets from the Crux
 
 We remove the polylogarithmic loss in the Cambie--Gao--Liu lower bound
