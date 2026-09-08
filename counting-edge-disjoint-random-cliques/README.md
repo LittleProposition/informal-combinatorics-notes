@@ -310,4 +310,6 @@ GitHub Issues.
 
 ## AI assistance
 
-[AI-assistance statement to be added.]
+The author selected the problem and guided the overall direction. AI tools
+were used extensively in developing the proof. The author then revised,
+checked, and independently verified the final argument.
